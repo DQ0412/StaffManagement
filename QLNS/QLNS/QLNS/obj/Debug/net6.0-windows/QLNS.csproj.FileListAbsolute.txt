@@ -1,0 +1,118 @@
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Cauhoi.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Dangky.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Main.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.QuenMK.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ThongtinNV.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.PhongBan.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ChucVu.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.BaoHiem.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.TDHV.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.QDKT.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.HopDong.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.DangNhap.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Report.resources
+C:\Users\ADMIN\Desktop\CNPM\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.PhanQuyen.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.BaoHiem.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Cauhoi.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ChucVu.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Dangky.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.DangNhap.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.HopDong.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Main.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.PhanQuyen.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.PhongBan.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Properties.Resources.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.QDKT.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.QuenMK.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Report.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.TDHV.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ThongtinNV.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CopyComplete
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ChangePass.resources
+D:\Công nghệ phần mềm\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Luong.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.BaoHiem.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ChangePass.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ChucVu.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Dangky.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.DangNhap.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.HopDong.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Luong.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Main.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.PhanQuyen.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.PhongBan.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.QDKT.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.TDHV.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.ThongtinNV.resources
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\ADMIN\Downloads\QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.Print.resources
